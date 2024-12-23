@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This repository contains the files and scripts needed to perform a 3D simulation of Gate-All-Around Field-Effect Transistors (GAAFETs) using Synopsys Sentaurus tools. The project utilizes **Sentaurus Process**, **Sentaurus Device**, and **Sentaurus Visual** for the simulation of fabrication steps, device characteristics, and visualization of results.
-
+This repository contains the files and scripts needed to perform a 3D simulation of Gate-All-Around Field-Effect Transistors (GAAFETs) using Synopsys Sentaurus tools. This is my final year BTech Project under Dr. Venkatnarayan Hariharan at Shiv Nadar University.
 ### Tools Used
 1. **Sentaurus Process (SProcess)**: To model and simulate the fabrication process.  
 2. **Sentaurus Device (SDevice)**: To simulate the electrical behavior of the device.  
@@ -20,13 +19,13 @@ This repository contains the files and scripts needed to perform a 3D simulation
    Clone this repository into your local directory
 
 2. **Set the Path**
-Ensure the directory path is set to the project's location.
+   Ensure the directory path is set to the project's location.
 
 3. **Run Sentaurus Process (SProcess)**
-Execute the SProcess tool via terminal:
-sprocess <process_file>.cmd
+   Execute the SProcess tool via terminal:
+   sprocess <process_file>.cmd
 
-Check for any errors in the log files generated.
+   Check for any errors in the log files generated.
 
 **Using the SDevice Command File**
 To simulate the device characteristics
