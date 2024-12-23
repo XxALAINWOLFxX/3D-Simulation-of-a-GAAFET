@@ -10,6 +10,7 @@ This repository contains the files and scripts needed to perform a 3D simulation
 3. **Sentaurus Visual**: To analyze and visualize the simulation results.  
 
 > **Note:** This project uses features from the 2017 version of Sentaurus, specifically the **Advanced Calibration Module**. Please ensure compatibility with your software version.
+> Machine Specifications: workstation-class machine with a 10-core Intel Xeon processor W-2255 running at 3.7 GHz with L1/2/3 cache of 0.6/10/19 MB respectively, and having a 256 GB RAM.
 
 ---
 
