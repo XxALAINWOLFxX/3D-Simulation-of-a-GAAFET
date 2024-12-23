@@ -51,7 +51,8 @@ Material Definitions: When using custom materials not included in the Sentaurus 
 
 For additional information, please consult the Synopsys Sentaurus manuals:
 
-Sentaurus Process User Guide
-Sentaurus Device User Guide
-Sentaurus Visual Manual
+1) Sentaurus Process User Guide
+2) Sentaurus Device User Guide
+3) Sentaurus Visual Manual
+
 Feel free to raise issues or submit contributions via this repository. Happy simulating! 🚀
