@@ -43,9 +43,9 @@ To simulate the device characteristics
 
 **Troubleshooting**
 
-Log Files: Check the log files generated during the execution of SProcess and SDevice for errors or warnings.
-Version Compatibility: Ensure you are using the 2017 version or later if the advanced calibration module is required.
-Material Definitions: When using custom materials not included in the Sentaurus library, correctly update the datexcode.txt file and the .par file.
+1) Log Files: Check the log files generated during the execution of SProcess and SDevice for errors or warnings.
+2) Version Compatibility: Ensure you are using the 2017 version or later if the advanced calibration module is required.
+3) Material Definitions: When using custom materials not included in the Sentaurus library, correctly update the datexcode.txt file and the .par file.
 
 **References**
 
